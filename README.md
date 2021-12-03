@@ -1,5 +1,5 @@
 # T06-ID-Assignment1
-Hi, I am Yu Zet, and I have chosen to do project idea 2. Porject idea 2 is about creating my own personal portfolio. It includes an introduction of myself and my qualifications.
+Hi, I am Yu Zet, and I have chosen to do project idea 2. Project idea 2 is about creating my own personal portfolio. It includes an introduction of myself and my qualifications.
 ## Design Process
 This website is mainly targetted to recruiters that are interested in hiring me. As a recruiter, the most important thing to look out for is the person's qualifications and their interests. Through this website, recruiters can find out more about my qualifications as well as my hobbies and interests. Here are the wireframes for both [Desktop view](https://github.com/YuZet/T06-ID-Assignment1/files/7648716/Desktop.view.pdf) and [Mobile view](https://github.com/YuZet/T06-ID-Assignment1/files/7648717/Mobile.view.pdf)
 
