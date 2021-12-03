@@ -11,12 +11,18 @@ The third and final portion consist of the projects I have done, and I included 
 ### Features to be implemented in the future:
 I would like to make my website more interactive by having more pages. I would also like to include links to my social media and have more types of interactive interfaces.
 ## Technologies used
-HTML - used to do the main code of the website
-CSS - used to make the website more visually appealing
-Javascript - used to make the website interactive
+### HTML 
+- used to do the main code of the website
+### CSS 
+- used to make the website more visually appealing
+### Javascript 
+- used to make the website interactive
 ## Testing
 Under "projects I have done:", when any image is clicked, it sents the user to the same website, regardless of what the image shows. This bug has not been addressed. For mobile users, The words are smaller and some images are cropped.
 ## Credits
-Content - The fonts used were from Google Fonts
-Media - The google image was obtained from design.google
-Acknowledgements - I received inspirations for this project from my lecturers in Ngee Ann Polytechnic
+### Content
+- The fonts used were from Google Fonts
+### Media 
+- The google image was obtained from design.google
+### Acknowledgements 
+- I received inspirations for this project from my lecturers in Ngee Ann Polytechnic
